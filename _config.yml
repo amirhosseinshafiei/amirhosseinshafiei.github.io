@@ -84,9 +84,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : sauleh_e
+  username               : 
 facebook:
-  username               : sauleh.eetemadi
+  username               : 
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -109,14 +109,14 @@ analytics:
 author:
   name             : "mobina farzaneh"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : I'm the best student.
+  bio              : I'm the bad student.
   location         : "تهران"
   email            : mobinafarzaneh098@gmail.com
-  twitter: sauleh_e
-  linkedin: sauleh
+  twitter: 
+  linkedin: 
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  github: mobinafarzaneh
+  instagram: 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
