@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "توررنگ آتشی"
+title                    : "مبینا فرزانه"
 title_separator          : "-"
 name                     : "Poorang" 
 description              : "Welcome to my web site."
@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Poorrang Atashi"
+  name             : "mobina farzaneh"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : I'm the best student.
   location         : "تهران"
-  email            : sauleh@gmail.com
+  email            : mobinafarzaneh098@gmail.com
   twitter: sauleh_e
   linkedin: sauleh
   google_scholar: Q25s5KkAAAAJ
