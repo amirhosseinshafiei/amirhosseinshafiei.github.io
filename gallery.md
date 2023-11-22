@@ -19,10 +19,10 @@ gallery:
     image_path: /assets/images/3.jpg
     alt: "placeholder image 3"
     title: "Image 3 title caption"  
-  - url:
-    image_path: 
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
+  - url: \assets\images\Python Turtle Graphics 11_11_2023 10_53_14 PM.png
+    image_path: \assets\images\Python Turtle Graphics 11_11_2023 10_53_14 PM.png
+    alt: "jungle"
+    title: "jungle
   - url: 
     image_path: 
     alt: "placeholder image 5"
