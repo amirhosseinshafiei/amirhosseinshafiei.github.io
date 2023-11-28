@@ -10,7 +10,7 @@ comments: true
 
 ### همکلاسی‌ها
 * [فاطمه خلیلی](http://fkhalili84.github.io)
-* [فاطمه رزاقی](https://fatemehrazzaghy.github.io)
+* [فاطمه رزاقی](http://fatemehrazzaghy.github.io)
 
 
 
