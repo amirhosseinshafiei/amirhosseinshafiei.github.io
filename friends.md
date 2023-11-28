@@ -9,9 +9,8 @@ comments: true
 ---
 
 ### همکلاسی‌ها
-* [علی حسینی](http://alihosseini.github.io)
-* بهداد محمدی
-* حسن داریان
+* [فاطمه خلیلی](http://fkhalili84.github.io)
+* فاطمه رزاقی
 
 
 
