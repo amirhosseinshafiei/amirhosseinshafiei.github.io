@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "CV"
-    url: /cv/
+  - title: "calendar"
+    url: /calendar/
   - title: "Courses"
     url: /courses/
   - title: "Friends"
