@@ -8,6 +8,8 @@ main:
     url: /gallery/
   - title: "Blog"
     url: /blog/
+  - title: "lifechart"
+    url: /lifechart/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
