@@ -66,5 +66,5 @@ tree(100,40,20) <br>
 turtle.update() <br>
 turtle.mainloop() <br>
 
-<img src="C:\git\personal_website_template\assets\images\Python Turtle Graphics 11_22_2023 8_38_58 AM.png" >
+<img src="..\assets\images\Python Turtle Graphics 11_22_2023 8_38_58 AM.png" >
 <a href="https://tanyarobati.github.io/" >tanya</a>
