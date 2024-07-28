@@ -8,10 +8,10 @@ modified: 4-10-2019
 comments: true
 ---
 
-### همکلاسی‌ها
+<!-- ### همکلاسی‌ها
 * [فاطمه خلیلی](http://fkhalili84.github.io)
 * [فاطمه رزاقی](http://fatemehrazzaghy.github.io)
-* <a href="https://tanyarobati.github.io/" >tanya</a>
+* <a href="https://tanyarobati.github.io/" >tanya</a> -->
 
 
 
