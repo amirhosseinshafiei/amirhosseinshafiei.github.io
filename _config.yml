@@ -19,7 +19,7 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 locale                   : "en-US" 
 title                    : "امیرحسین شفیعی"
 title_separator          : "-"
-name                     : "Mobina Farzaneh" 
+name                     : "Amirhosein Shafiei" 
 description              : "Welcome to my web site."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mobina Farzaneh"
-  avatar           : "/assets/images/photo_2023-09-29_22-56-14.jpg"
+  name             : "Amirhosein Shafiei"
+  avatar           : "/assets/images/photo_2024-02-22_19-48-08.jpg"
   bio              : 
   location         : "تهران"
-  email            : mobinafarzaneh098@gmail.com
+  email            : amirhossein.sh8103@gmail.com
   twitter: 
   linkedin: 
   google_scholar: Q25s5KkAAAAJ
